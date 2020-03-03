@@ -4,6 +4,7 @@ class Post
   
   def initialize(title, genre) 
     @title = title
+    @author = author
   end
   
 end
